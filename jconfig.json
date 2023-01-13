@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Arcturus Kernel",
+    "version": "2.1",
+    "link": "https://github.com/jaaat4u/Kernel-Releases/releases/download/20221124/Arcturus-v2.0.zip",
+    "changelog_url": "https://github.com/jaaat4u/Kernel-Releases/releases/tag/20221124",
+    "date": "2023-01-13",
+    "sha1": "b00195e12f90f13cf7faf9037f51d9f5"
+  },
+  "support": {
+    "link": "https://t.me/ArcturusKernel"
+  }
+}
